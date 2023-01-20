@@ -1,0 +1,20 @@
+body{
+  color: black;
+}
+.b{
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: white;
+}
+.b:hover{
+  background-color: green;
+  cursor:default;
+}
+.f{
+  font-size: 80px;
+  font-family: Impact;
+}
+p{
+  font-size: 35px;
+}
